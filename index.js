@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended : true }));
 
 
 app.get("/", (req, res) => {
-    res.send(`Raíz da API NodeJS + Express + MySQL`)
+    res.redirect(`https://documenter.getpostman.com/view/29885878/2s9YJZ34ck`)
 });
 
 // TODOS os alunos
