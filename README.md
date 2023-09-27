@@ -1,2 +1,1 @@
-# escola-api-node
- sdefas
+# API utilizando NodeJs + Express
